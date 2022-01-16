@@ -20,7 +20,7 @@ title                    : "연습장"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "sangjun"
-description              : "An amazing website."
+description              : "연습"
 url                      : "https://sangjun12458.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -102,10 +102,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "sangjun"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "쓰고 지우고"
+  location         : "orea"
   email            :
   links:
     - label: "Email"
