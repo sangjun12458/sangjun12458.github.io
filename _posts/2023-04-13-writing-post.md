@@ -10,7 +10,7 @@ title: "DirectX11 Error 메모"
 - 애초에 할당이 되지 않은 경우  
 
 
-DX11을 배우면서 ID3DBlob 포인터를 이용하여 CreateVertexShader로 vertex shader를 만들고,
+DX11을 배우면서 ID3DBlob 포인터를 이용하여 CreateVertexShader로 vertex shader를 만들고,  
 해당 포인터를 이용하여 CreateInputLayout으로 input layout을 만들어 줄 때 에러가 발생했다.  
 
 
